@@ -58,7 +58,7 @@ section{
 h3{
 	margin: 10px 0;
 }
-/*レスポンシブ/*
+/*ここからレスポンシブ/*
 @media screen and (max-width:768px){
 	main{
 		width: 90%;
