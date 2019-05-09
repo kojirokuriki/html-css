@@ -59,7 +59,6 @@ h3{
 	margin: 10px 0;
 }
 
-/*ここからレスポンシブ/*
 @media screen and (max-width:768px){
 	main{
 		width: 90%;
